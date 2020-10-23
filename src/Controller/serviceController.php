@@ -9,7 +9,7 @@ use Symfony\Component\HttpFoundation\Request;
 class serviceController extends AbstractController
 {
     /** 
-     * @Route("/api", name="main_service")
+     * @Route("/", name="main_service")
      */
     public function mainService(Request $request)
     {

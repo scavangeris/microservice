@@ -1,5 +1,5 @@
 # microservice
-pasiekiamas route yra "  "
+pasiekiamas route yra "http://78.63.93.10/microservice/public/"
 headeryje nurodomi parametrai
 # X-Auth-Token    =   ;
 # var-1   =   ;
